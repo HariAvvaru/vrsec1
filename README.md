@@ -45,3 +45,15 @@ Sno|Name
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+- [ ] \(Optional) Open a followup issue
+
+@Venkat579/support What do you think about these updates?
+
+
