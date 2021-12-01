@@ -36,4 +36,11 @@
 
 ![Taggedhele](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202111/Allu_Arjun_Pushpa_trailer_Dece_1200x768.jpeg?4dTpH4sGreQi4ImOZVMHCUnZQ0Otc81C&size=770:433)
 
+**For Table**
+
+Sno|Name
+---|---
+1|JAP
+2|PAJ
+
 
