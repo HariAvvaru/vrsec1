@@ -34,7 +34,6 @@
 
 ![Vahtaj](https://img.etimg.com/thumb/msid-74290037,width-1200,height-900,imgsize-214389,overlay-economictimes/photo.jpg)
 
-![Taggedhele](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202111/Allu_Arjun_Pushpa_trailer_Dece_1200x768.jpeg?4dTpH4sGreQi4ImOZVMHCUnZQ0Otc81C&size=770:433)
 
 **For Table**
 
@@ -54,6 +53,6 @@ git commit
 
 - [ ] \(Optional) Open a followup issue
 
-@Venkat579/support What do you think about these updates?
+hey @Venkat579/support What do you think about these updates?
 
 
